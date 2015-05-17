@@ -1,4 +1,4 @@
-<!--upgrade_div_starts-->
+<!--upgrade_div_starts-
 <div class="upgrade_bx">
 	<div class="up_banr_imgbx"><a href="http://open-school.org/contact.php" target="_blank"><img src="http://tryopenschool.com/images/promo_bnnr_innerpage.png" width="231" height="200" /></a></div>
 	<div class="up_banr_firstbx">
@@ -6,7 +6,7 @@
 	  <a href="http://open-school.org/contact.php" target="_blank">upgrade to premium version!</a>
     </div>
 	
-</div>
+</div>-->
 <!--upgrade_div_ends-->
 <div id="othleft-sidebar">
 <!--<div class="lsearch_bar">
