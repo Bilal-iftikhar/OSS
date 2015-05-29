@@ -1,4 +1,4 @@
-<?php
+<?PHP
 
 class AttendanceModule extends CWebModule
 {
